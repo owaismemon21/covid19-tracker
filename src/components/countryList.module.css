@@ -1,0 +1,14 @@
+
+.listBox {
+    max-height: 330px;
+    overflow: auto;
+}
+
+.list {
+
+}
+
+.listSecondaryText {
+    display: flex;
+    justify-content: space-between;
+}
