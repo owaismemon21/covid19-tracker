@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Demo Surge URL.\
+[Demo](http://covid19-tracker-owaismemon.surge.sh/) to view the deployed React App on surge.
+
 ## Available Scripts
 
 In the project directory, you can run:

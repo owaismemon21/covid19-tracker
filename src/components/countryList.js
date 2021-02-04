@@ -1,5 +1,5 @@
 import React, { useEffect, useState} from 'react';
-import { List, ListItem, ListItemText, Typography } from '@material-ui/core';
+import { List, ListItem, ListItemText } from '@material-ui/core';
 
 import styles from './countryList.module.css';
 import { getListAPIURL } from "../api";
