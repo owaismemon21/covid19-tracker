@@ -4,7 +4,7 @@ import styles from "./footer.module.css";
 function Footer () {
   return (
     <div className={styles.footerText}>
-      <p>© Owais Memon</p>
+      <p>© Owais Memon 2021</p>
     </div>
   );
 }
