@@ -23,7 +23,7 @@ function CountryList (props) {
         const response = await fetch(`${getListAPIURL}/countries`);
         const data = await response.json();
         //const list = data.countries;
-        console.log(data)
+        //console.log(data)
         let sortedData = sortData(data);
         setCountriesList(sortedData);
         //console.log(list)
